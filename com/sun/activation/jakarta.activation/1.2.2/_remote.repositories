@@ -1,4 +1,5 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Sun Nov 08 14:21:06 CST 2020
+#Sun Jan 03 17:11:57 CST 2021
 jakarta.activation-1.2.2.pom>central=
 jakarta.activation-1.2.2.jar>central=
+jakarta.activation-1.2.2-sources.jar>central=
